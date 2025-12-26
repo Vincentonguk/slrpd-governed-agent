@@ -1,0 +1,6 @@
+capabilities:
+  CS-SLRPD-01:
+    version: "0.1"
+    supports_closed_loop: true
+    supports_cooldown: true
+    supports_audit: true

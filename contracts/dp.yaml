@@ -1,0 +1,6 @@
+destination_profiles:
+  DP-DC-01:
+    destination_type: data_center
+    version: "0.1"
+    safe_envelope_ref: SE-DC-01
+    sync_required: false

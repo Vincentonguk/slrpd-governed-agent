@@ -1,0 +1,7 @@
+safe_envelopes:
+  SE-DC-01:
+    version: "0.1"
+    max_power_norm: 1.0
+    max_jitter_norm: 0.2
+    max_latency_ms: 50
+    deny_by_default: true

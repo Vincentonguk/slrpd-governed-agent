@@ -1,0 +1,15 @@
+tac:
+  version: "0.1"
+  required_events:
+    - Discover
+    - Validate
+    - Sync
+    - Arm
+    - Deliver
+    - Cooldown
+    - PostCheckAudit
+  required_fields:
+    - session_id
+    - event_type
+    - state
+    - ts
